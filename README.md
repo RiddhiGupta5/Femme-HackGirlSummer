@@ -3,7 +3,7 @@
 
 #### High crime-rate against women motivated us to build an app that ensures her safety at travel ; from deciding her cab-mate and journey, she can track her location and alert her contacts when in danger.   
 
-### Youtube link to the Application DEMO : [Demo](https://youtu.be/7cx0F3dOkUU)
+### Youtube link to the demo: [Application Demo](https://youtu.be/7cx0F3dOkUU)
 
 ### Website link
 
