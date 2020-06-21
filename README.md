@@ -9,22 +9,22 @@ The increasing crimes against women was the major inspiration for the project. T
 
 ## What it does:
 
-### FIND YOUR CAB COMPANION
+### Find your cab companion
 As a passenger, Femme allows you to choose your own cab companion to ensure comfort during travel.
 
-### CREATE YOUR JOURNEY BY FIXING THE PATH
+### Creating your journey by fixing the path
 Femme allows its users to create new journeys and fix their path of travel to ensure safety.
 
-### GET IN TOUCH WITH YOUR CAB COMPANION
+### Get in touch with your cab companion
 Once a journey is fixed, you can communicate with your cab companion using SMS services.
 
-### SEND ALERTS
+### Send alerts
 In case a passenger senses any danger ahead, she can click on the alert button to intimate her emergency contacts for the same.
 
-### TRACK YOUR LOCATION
+### Track your location
 During travel, the location of the cab is tracked. In case of a deviation more than 1 km from the fixed path, an alert is sent to the passenger’s emergency contacts.
 
-### SEAMLESS USER EXPERIENCE
+### Seamless user experience
 The application uses minimalist UI and provides for great user experience to all our customers.
 
 
@@ -53,4 +53,28 @@ We have planned features like detecting the nearby police station and directing 
 We may also try to improve the UI if needed and make it more enhanced with newly added features.
 
 We also wish to launch the app on playstore in the future and make it a real-life in use application.
+
+### Website live
+
+Website is hosted on netlify and live at https://femme.netlify.app
+
+### Application Download
+
+The app can be downloaded using this link [Femme] https://drive.google.com/file/d/1WVjOJDfmBVjnYa_Ad8nKL-NsC34zmoeX/view?usp=sharing
+
+### Design
+
+Link to the design created using Figma https://www.figma.com/file/3Z2pPD4J2dLM3xUZPXfRh5/FEMME?node-id=0%3A1
+
+## Contributors
+
+1. Android Apllication: [Riddhi Gupta](http://github.com/RiddhiGupta5)
+2. Website Creation: [Saloni Parekh](http://github.com/saloni0104)
+3. Design of Website and Application: [Manorama Maharana](http://github.com/Manorama09)
+
+<p align="center">
+	Made with :heart:
+</p>
+
+
 
