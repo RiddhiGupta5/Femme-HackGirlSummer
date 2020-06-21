@@ -25,7 +25,7 @@ Back-end software: Java;
 Database: Firebase;
 Text Editor: Android Studio
 
-*Web Application:*
+*Website:*
 Front-end software: HTML, CSS, Bootstrap;
 Text Editor: VS CODE
 
