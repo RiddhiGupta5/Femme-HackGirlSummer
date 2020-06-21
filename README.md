@@ -60,11 +60,11 @@ Website is hosted on netlify and live at https://femme.netlify.app
 
 ### Application Download
 
-The app can be downloaded using this link [Femme] (https://drive.google.com/file/d/1WVjOJDfmBVjnYa_Ad8nKL-NsC34zmoeX/view?usp=sharing)
+The app can be downloaded using this link [Femme](https://drive.google.com/file/d/1WVjOJDfmBVjnYa_Ad8nKL-NsC34zmoeX/view?usp=sharing)
 
 ### Design
 
-Link to the design created using Figma: https://www.figma.com/file/3Z2pPD4J2dLM3xUZPXfRh5/FEMME?node-id=0%3A1
+The Project was designed using [Figma](https://www.figma.com/file/3Z2pPD4J2dLM3xUZPXfRh5/FEMME?node-id=0%3A1)
 
 ## Contributors
 
