@@ -1,4 +1,4 @@
-# Femme-HackGirlSummer
+# Femme-Hack Girl Summer
 
 What's your idea? This will be a short tagline for the project:-
 
@@ -28,7 +28,6 @@ During travel, the location of the cab is tracked. In case of a deviation more t
 The application uses minimalist UI and provides for great user experience to all our customers.
 
 
-
 ## How we built it: 
 
 Using Google Map, Firebase and Android, the main application was created. 
@@ -36,6 +35,7 @@ The Website for the same was made using HTML, CSS and Bootstrap.
 The whole design for the website and application was designed using Figma.
 
 ## Challenges we ran into :- 
+
 The major challenge that we ran into was while integrating the apis. We took help of a lot of available online resources to understand. The major challenge was to make the path deviation detection system. Storing the coordinates nicely was a great challenge.
 
 ## Accomplishments that we're proud of 
@@ -73,7 +73,7 @@ Link to the design created using Figma https://www.figma.com/file/3Z2pPD4J2dLM3x
 3. Design of Website and Application: [Manorama Maharana](http://github.com/Manorama09)
 
 <p align="center">
-	Made with :heart:
+	Made with :heart: for all the women out there!
 </p>
 
 
