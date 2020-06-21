@@ -1,13 +1,27 @@
 # FEMME - HER SAFETY, OUR CONCERN
 ## A submission for MLH-Hack Girl Summer
 
-### High crime-rate against women motivated us to build an app that ensures her safety at travel ; from deciding her cab-mate and journey, she can track her location and alert her contacts when in danger.
+#### High crime-rate against women motivated us to build an app that ensures her safety at travel ; from deciding her cab-mate and journey, she can track her location and alert her contacts when in danger.   
 
-## Inspiration:
+### Application DEMO
 
-Statistics show that the rate of crimes against women increases by an alarming rate of 44% or more every year. With increasing crimes against women these days, we found it extremely necessary to build something that helps them feel safe. 
-Our idea is to help women who travel alone, be it after late-night work hours or for shopping in a far off location. We have implemented multiple features that aren’t available to them readily and designed a lightweight mobile application for the same. 
-This ensures their safety at travel and in case of any danger, it sends alerts to their emergency contacts. It also alerts the contacts when the predefined path is not being followed and the vehicle deviates.   
+Youtube link to the app demo: [Femme-demo](https://youtu.be/7cx0F3dOkUU)
+
+## How we built it: 
+
+*Android Application:*
+Front-end software: XML;
+Back-end software: Java;
+Database: Firebase;
+Text Editor: Android Studio
+
+*Web Application:*
+Front-end software: HTML, CSS, Bootstrap;
+Text Editor: VS CODE
+
+*Design:*
+Figma;
+Adobe Illustrator
 
 ## What it does:
 
@@ -26,45 +40,6 @@ If the user clicks on the alert button, then the emergency contacts of the user 
 
 *5. Seamless User Experience:*
 We ensure a smooth user experience by creating a minimalist UI.
-
-## How we built it: 
-
-*Android Application:*
-Front-end software: XML;
-Back-end software: Java;
-Database: Firebase;
-Text Editor: Android Studio
-
-*Web Application:*
-Front-end software: HTML, CSS, Bootstrap;
-Text Editor: VS CODE
-
-*Design:*
-Figma;
-Adobe Illustrator
-
-## Challenges faced:
-
-*Android Application:*
-Making the path deviation functional and accurate along with Google Maps API integration was a major challenge we ran into. However, using online resources we were able to build our requirement.
-
-*Web Application:*
-Making the website responsive and ensuring that the UI did not crash on various devices was a challenge faced. However, ultimately, we managed to make it compatible and user-friendly on screens of different sizes.
-
-*Design:*
-Designing a minimalist UI with great user experience while keeping the application easy to understand took a while. However it all worked out in the end!
-
-## Accomplishments that we're proud of :
-
-1. We managed to implement the path detection and deviation systems accurately by pre-dermining the routes successfully. This is a feature that is currently unavailable in the existing cab services and we're glad to have found our way to the solution 
-2. We successfully integrated the SMS services with the application that send alerts  in case of danger.
-
-## What we learned:
-
-Implementing the complex logic using multiple screens in the Android Application was something we got a hang of. The success of implementing the path deviation and detection feature gave us immense pleasure. 
-
-Achieving great user experience and responsivity on devices of various sizes was another concept we learnt. 
-Overall, we learnt how to deal with various errors that came up in the process while solving it in an almost e…
 
 ## What's next for Femme: 
 
@@ -89,10 +64,6 @@ The APK can be downloaded from the link: [Femme](https://drive.google.com/file/d
 ### Design
 
 The interface was designed using [Figma](https://www.figma.com/file/3Z2pPD4J2dLM3xUZPXfRh5/FEMME?node-id=0%3A1)
-
-### Video for App-demo
-
-Youtube link to the app demo: [Femme-demo](https://youtu.be/7cx0F3dOkUU)
 
 ## Contributors
 
