@@ -5,7 +5,7 @@
 
 ### Application DEMO
 
-Youtube link to the app demo: [Femme-demo](https://youtu.be/7cx0F3dOkUU)
+Youtube link: [Femme-demo](https://youtu.be/7cx0F3dOkUU)
 
 ## How we built it: 
 
@@ -59,7 +59,7 @@ The website is hosted on netlify and is live at https://femme.netlify.app .
 
 ### APK Download
 
-The APK can be downloaded from the link: [Femme](https://drive.google.com/file/d/1WVjOJDfmBVjnYa_Ad8nKL-NsC34zmoeX/view?usp=sharing)
+The APK can be downloaded from the link: [FEMME APK DOWNLOAD](https://drive.google.com/file/d/1WVjOJDfmBVjnYa_Ad8nKL-NsC34zmoeX/view?usp=sharing)
 
 ### Design
 
