@@ -1,5 +1,5 @@
 # FEMME - HER SAFETY, OUR CONCERN
-## A submission for Hack Girl Summer
+## A submission for MLH-Hack Girl Summer
 
 ### High crime-rate against women motivated us to build an app that ensures her safety at travel ; from deciding her cab-mate and journey, she can track her location and alert her contacts when in danger.
 
