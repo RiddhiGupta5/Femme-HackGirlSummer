@@ -7,15 +7,15 @@
 
 ### Website link
 
-The website is hosted on netlify and is live at https://femme.netlify.app .
+The website is hosted on netlify and is live at https://femme.netlify.app.
 
 ### APK Download
 
-The APK can be downloaded from the link: [FEMME APK DOWNLOAD](https://drive.google.com/file/d/1WVjOJDfmBVjnYa_Ad8nKL-NsC34zmoeX/view?usp=sharing)
+The APK can be downloaded from the link: [FEMME APK DOWNLOAD](https://drive.google.com/file/d/1WVjOJDfmBVjnYa_Ad8nKL-NsC34zmoeX/view?usp=sharing).
 
 ### Design
 
-The interface was designed using [Figma](https://www.figma.com/file/3Z2pPD4J2dLM3xUZPXfRh5/FEMME?node-id=0%3A1)
+The interface was designed using [Figma](https://www.figma.com/file/3Z2pPD4J2dLM3xUZPXfRh5/FEMME?node-id=0%3A1).
 
 ## How we built it: 
 
