@@ -3,9 +3,19 @@
 
 #### High crime-rate against women motivated us to build an app that ensures her safety at travel ; from deciding her cab-mate and journey, she can track her location and alert her contacts when in danger.   
 
-### Application DEMO
+### Youtube link to the Application DEMO : [Demo](https://youtu.be/7cx0F3dOkUU)
 
-Youtube link: [Application Demo](https://youtu.be/7cx0F3dOkUU)
+### Website link
+
+The website is hosted on netlify and is live at https://femme.netlify.app .
+
+### APK Download
+
+The APK can be downloaded from the link: [FEMME APK DOWNLOAD](https://drive.google.com/file/d/1WVjOJDfmBVjnYa_Ad8nKL-NsC34zmoeX/view?usp=sharing)
+
+### Design
+
+The interface was designed using [Figma](https://www.figma.com/file/3Z2pPD4J2dLM3xUZPXfRh5/FEMME?node-id=0%3A1)
 
 ## How we built it: 
 
@@ -51,19 +61,6 @@ We would also like to add a gesture recognition system to send alerts so that wi
 Another improvement is the addition of a functionality to take the driver’s and car’s picture and send it to her contacts before beginning the journey. 
 
 Most importantly we aim to publish our application on playstore to increase our audience. Implementing these features would make it a perfect platform that a woman could carry along with her, while traveling with confidence. 
-
-
-### Website link
-
-The website is hosted on netlify and is live at https://femme.netlify.app .
-
-### APK Download
-
-The APK can be downloaded from the link: [FEMME APK DOWNLOAD](https://drive.google.com/file/d/1WVjOJDfmBVjnYa_Ad8nKL-NsC34zmoeX/view?usp=sharing)
-
-### Design
-
-The interface was designed using [Figma](https://www.figma.com/file/3Z2pPD4J2dLM3xUZPXfRh5/FEMME?node-id=0%3A1)
 
 ## Contributors
 
