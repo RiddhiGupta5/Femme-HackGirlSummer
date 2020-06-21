@@ -1,0 +1,316 @@
+
+* {
+    font-family: 'Work Sans', sans-serif;
+    scroll-behavior: smooth;
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.nav-item {
+    padding-left: 10px;
+    padding-right: 10px
+}
+
+.slogan1{
+    color:white;
+    margin-top:60px;
+    text-align: right;
+    font-size:50px;
+  
+  
+
+}
+
+.slogan2{
+    color:white;
+    font-size:50px;
+    text-align: left;
+    
+}
+
+
+@media screen and (max-width: 600px) {
+    #column {
+        width: 100%;
+    }
+    
+}
+
+#column {
+    float: left;
+    width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+@media only screen and (max-width: 768px) {
+ 
+
+    iframe {
+        width:300;
+        height:300
+    }
+}
+
+@media only screen and (min-height: 992px) {
+    iframe {
+        width:500;
+        height:300
+    }
+}
+
+@media only screen and (max-height: 600px) {
+    iframe {
+        width:250;
+        height:200
+    }
+}
+
+.border{
+    display: block;
+    margin: auto;
+    width: 160px;
+    height:3px;
+    margin-bottom: 40px; 
+}
+
+.ps{
+    margin-bottom: 40px;
+}
+
+.ps a{
+    display: inline-block;
+    margin: 0 60px;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+    border-color: white;
+}
+
+.ps a img{
+    width: 100%;
+    transition: 0.4s all;
+}
+
+
+.features{
+    font-family: 'Work Sans'; font-weight: semi-bold;
+    margin-top : 80px;
+    font-size: 50px;
+    color:rgb(220,33,78) ;
+    margin-bottom: 20px
+}
+
+@media screen and (max-width: 768px) {
+    
+
+    .feature-subheading{
+        font-size: 15px;
+    }
+
+    #cab{
+        height:200px
+    }
+
+    #illustration{
+        height:150px;
+    }
+
+    #column{
+        height: 200px;
+    }
+
+    #column-purple{
+        display: none;
+    }
+
+    .femme{
+        font-size: 50px;
+        margin-top:30px;
+        font-family: 'Work Sans'; font-weight: semi-bold;
+    }
+
+    #column-pink{
+        
+         text-align: center;
+          background-color: rgb(220,33,78);
+           padding-bottom:300px;
+           
+    }
+
+    .number{
+        height:100px;
+        margin-bottom:10px
+    }
+
+    .heading{
+        font-size: 18px;
+        padding-left:20px;
+        text-align: center;
+    }
+
+    .content{
+        font-size:22px;
+        padding-left: 20px;
+        font-family: 'Work Sans';
+    }
+
+    .slogan1{
+        display:none;
+    }
+
+    .slogan2{
+        display:none;
+    }
+
+}
+
+.feature-subheading{
+    font-weight: bolder;
+    color: white;
+    margin-bottom: 30px;
+    font-size: 35px;
+}
+
+.femme{
+    font-family: 'Work Sans'; font-weight: semi-bold;
+    font-size: 60px;
+    text-align: center;
+    color:rgb(30,32,45);
+    margin-top: 50px;
+    
+}
+
+
+#column-pink{
+    height : 700px;
+     text-align: center;
+      background-color: rgb(220,33,78);
+       padding-bottom:70px"
+}
+
+.download{
+    font-family: 'Work Sans';
+     font-weight: semi-bold;
+    margin-top : 180px;
+    font-size: 50px;
+    color: rgb(30,32,45) ;
+    margin-bottom: 50px;
+    
+}
+
+
+
+.contact{
+
+     margin-top : 80px;
+    font-size: 50px;
+    color:rgb(220,33,78) ;
+    margin-bottom: 50px;
+    font-family: 'Work Sans'; font-weight: semi-bold;
+}
+
+.ourteam{
+    
+    margin-top : 80px;
+    font-size: 50px;
+    color:rgb(220,33,78) ;
+    margin-bottom: 50px;
+    font-family: 'Work Sans'; font-weight: semi-bold;
+}
+
+.appdemo{
+    
+    margin-top : 50px;
+    font-size: 50px;
+    color:rgb(220,33,78) ;
+    margin-bottom: 50px;
+    font-family: 'Work Sans'; font-weight: semi-bold;
+}
+
+.appdemosub{
+    font-weight: bolder;
+     color:rgb(255,216,19) ;
+      margin-bottom: 50px;
+       font-size: 25px;
+       font-family: 'Roboto Condensed';
+}
+
+#link{
+    color:white;
+    text-align:center;
+    padding: 20px;
+    font-size: 17px;
+    text-align: justify;
+    font-family: 'Work Sans'
+}
+
+
+
+
+
+@media screen and (min-width: 769px) {
+    .download{
+        font-size: 80px;
+        font-weight: semi-bold;
+        
+    }
+
+    .femme{
+        font-size: 100px;
+        font-family: 'Work Sans'; font-weight: semi-bold;
+        margin-top: 200px;
+    }
+
+    .features {
+        font-size: 80px;
+    }
+
+    .contact{
+        font-size: 80px;
+        color:rgb(220,33,78) ;
+        font-family: 'Work Sans'; font-weight: semi-bold;
+    }
+
+    .ourteam{
+        font-size: 80px;
+    }
+
+    .appdemo{
+        font-size: 80px;
+    }
+
+    .appdemosub{
+        font-size: 35px;
+    }
+
+    #link{
+        font-size: 25px;
+    }
+
+    .mobile-slogan{
+        display: none;
+    }
+
+}
+
+
+
+
+
+
