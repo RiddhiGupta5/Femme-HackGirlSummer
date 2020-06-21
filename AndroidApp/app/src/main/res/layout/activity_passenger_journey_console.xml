@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OwnerJourneyConsoleActivity"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@color/background_dark_app">
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="match_parent"
+        android:layout_height="151dp"
+        app:srcCompat="@drawable/logo"
+        android:layout_marginBottom="80dp"/>
+
+    <Button
+        android:text="Your Partners for journey"
+        android:id="@+id/get_partners"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_round"
+        android:textColor="#121212"
+        android:fontFamily="@font/work_sans_semibold"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:shadowColor="@color/cardview_shadow_end_color"/>
+    <Button
+        android:text="Start Tracking your Location"
+        android:id="@+id/tracking"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_round"
+        android:textColor="#121212"
+        android:fontFamily="@font/work_sans_semibold"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:shadowColor="@color/cardview_shadow_end_color"/>
+
+</LinearLayout>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SendInvitesActivity"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@color/background_dark_app">
+
+    <TextView
+        android:id="@+id/your_safety"
+        android:layout_width="318dp"
+        android:layout_height="54dp"
+        android:layout_marginLeft="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/work_sans_bold"
+        android:gravity="center_vertical"
+        android:text="Send Invites"
+        android:textColor="#FFFF"
+        android:textSize="40dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Starting Point"
+        android:id="@+id/start"
+        android:background="@drawable/edit_round"
+        android:padding="10dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:textColorHint="#FFFF"
+        android:textColor="#FFFF"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Destination"
+        android:id="@+id/destination"
+        android:background="@drawable/edit_round"
+        android:padding="10dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:textColorHint="#FFFF"
+        android:textColor="#FFFF"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Date (dd/mm/yy)"
+        android:id="@+id/date"
+        android:background="@drawable/edit_round"
+        android:padding="10dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:textColorHint="#FFFF"
+        android:textColor="#FFFF"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Time (hh:mm)"
+        android:id="@+id/time"
+        android:background="@drawable/edit_round"
+        android:padding="10dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:textColorHint="#FFFF"
+        android:textColor="#FFFF"/>
+    <Button
+        android:text="Send"
+        android:id="@+id/send"
+        android:layout_marginRight="70dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_round"
+        android:textColor="#121212"
+        android:fontFamily="@font/work_sans_semibold"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:shadowColor="@color/cardview_shadow_end_color"/>
+
+</LinearLayout>

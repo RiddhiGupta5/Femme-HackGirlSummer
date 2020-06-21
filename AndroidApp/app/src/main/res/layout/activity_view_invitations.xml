@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ViewInvitationsActivity"
+    android:background="@color/background_dark_app">
+
+    <TextView
+        android:id="@+id/your_safety"
+        android:layout_width="318dp"
+        android:layout_height="54dp"
+        android:layout_marginLeft="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        android:fontFamily="@font/work_sans_bold"
+        android:gravity="center_vertical"
+        android:text="Invitations"
+        android:textColor="#FFFF"
+        android:textSize="40dp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/invites_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/your_safety"
+        android:background="@color/background_dark_app"/>
+
+</RelativeLayout>

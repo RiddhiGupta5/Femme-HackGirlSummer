@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center_vertical"
+    android:background="@color/background_dark_app">
+
+    <TextView
+        android:id="@+id/your_safety"
+        android:layout_width="318dp"
+        android:layout_height="54dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/work_sans_bold"
+        android:gravity="center_vertical"
+        android:text="YOUR SAFETY,"
+        android:textColor="#FFFF"
+        android:textSize="40dp" />
+
+    <TextView
+        android:id="@+id/our_concern"
+        android:layout_width="318dp"
+        android:layout_height="54dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="35dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/work_sans_bold"
+        android:gravity="center_vertical"
+        android:text="OUR CONCERN"
+        android:textColor="#FFFF"
+        android:textSize="40dp"/>
+
+
+    <Button
+        android:text="CAR OWNER"
+        android:id="@+id/owner"
+        android:padding="10dp"
+        android:fontFamily="@font/work_sans_bold"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="34dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button_round"
+        android:textSize="20sp"
+        android:textColor="#000"/>
+
+    <Button
+        android:text="PASSENGER"
+        android:id="@+id/passenger"
+        android:padding="10dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="10dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="34dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/work_sans_bold"
+        android:background="@drawable/button_round"
+        android:textSize="20sp"
+        android:textColor="#000"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginTop="70dp"
+        app:srcCompat="@drawable/logo"
+        />
+
+    <TextView
+        android:id="@+id/made_with_l"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="-16dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="1dp"
+        android:textColor="#FFFFFF"
+        android:text="Made with ❤ for all women out there."
+        android:gravity="center_horizontal|center_vertical"
+        android:fontFamily="@font/work_sans_regular"
+        />
+
+</LinearLayout>

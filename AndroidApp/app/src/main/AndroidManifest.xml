@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.riddhi.women_safety_app">
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="FEMME"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".OwnerNewJourneyActivity"
+            android:label="FEMME" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity
+            android:name=".PassengerMapsActivity"
+            android:label="                              FEMME" />
+        <activity
+            android:name=".PassengerJourneyConsoleActivity"
+            android:label="                              FEMME" />
+        <activity
+            android:name=".ViewJourneyActivity"
+            android:label="                              FEMME" />
+        <activity
+            android:name=".ViewPassengersActivity"
+            android:label="                              FEMME" />
+        <activity
+            android:name=".OwnerJourneyConsoleActivity"
+            android:label="                              FEMME" />
+        <activity
+            android:name=".OwnerMapsActivity"
+            android:label="                              FEMME" />
+        <activity
+            android:name=".ViewRequestsActivity"
+            android:label="                              FEMME" />
+        <activity
+            android:name=".ViewInvitationsActivity"
+            android:label="                              FEMME" />
+        <activity
+            android:name=".SendInvitesActivity"
+            android:label="                              FEMME" />
+        <activity
+            android:name=".OwnerHomeActivity"
+            android:label="                              FEMME" />
+        <activity
+            android:name=".PassengerHomeActivity"
+            android:label="                              FEMME" />
+        <activity
+            android:name=".PassengerSignupActivity"
+            android:label="                              FEMME" />
+        <activity
+            android:name=".OwnerSignupActivity"
+            android:label="                              FEMME" />
+        <activity
+            android:name=".PassengerLoginActivity"
+            android:label="                              FEMME" />
+        <activity
+            android:name=".OwnerLoginActivity"
+            android:label="                              FEMME" />
+        <activity
+            android:name=".MapActivity"
+            android:label="                              FEMME" />
+        <activity
+            android:name=".MainActivity"
+            android:label="                              FEMME">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

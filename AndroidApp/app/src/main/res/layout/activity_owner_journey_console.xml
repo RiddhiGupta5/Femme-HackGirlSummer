@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OwnerJourneyConsoleActivity"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@color/background_dark_app">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="122dp"
+        app:srcCompat="@drawable/logo" />
+
+    <Button
+        android:text="Send Invites to All"
+        android:id="@+id/send_invites"
+        android:padding="10dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/work_sans_bold"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/button_round"
+        android:textColor="#121212"
+        android:shadowColor="@color/cardview_shadow_end_color"/>
+    <Button
+        android:text="Your Passengers"
+        android:id="@+id/your_passengers"
+        android:padding="10dp"
+        android:fontFamily="@font/work_sans_bold"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_round"
+        android:textColor="#121212"
+        android:shadowColor="@color/cardview_shadow_end_color"/>
+    <Button
+        android:text="Received Requests"
+        android:id="@+id/received_requests"
+        android:padding="10dp"
+        android:fontFamily="@font/work_sans_bold"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_round"
+        android:textColor="#121212"
+        android:shadowColor="@color/cardview_shadow_end_color"/>
+    <Button
+        android:text="Send Requests"
+        android:id="@+id/send_requests"
+        android:padding="10dp"
+        android:fontFamily="@font/work_sans_bold"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_round"
+        android:textColor="#121212"
+        android:shadowColor="@color/cardview_shadow_end_color"/>
+
+</LinearLayout>
